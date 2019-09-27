@@ -14,7 +14,6 @@
     display: flex;           /* establish flex container */
     justify-content: center; /* center items vertically, in this case */
     align-items: center;     /* center items horizontally, in this case */
-    /* height: 30vh; */
 }
 
 .logo3point, .title3point
