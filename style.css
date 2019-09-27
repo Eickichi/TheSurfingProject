@@ -1,0 +1,20 @@
+.jumbotron 
+{
+    background-image: url("https://images.unsplash.com/photo-1526644779818-f192864daf18?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60");
+    background-size: cover;
+    height: 50vh;
+}
+
+.titlepresentation, .row
+{
+    display: flex;           /* establish flex container */
+    justify-content: center; /* center items vertically, in this case */
+    align-items: center;     /* center items horizontally, in this case */
+    height: 30vh;
+}
+
+.logo3point, .title3point
+{
+    display: flex;
+    justify-content: center;
+}
