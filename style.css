@@ -1,15 +1,15 @@
 .jumbotron 
 {
-    background-image: url("https://images.unsplash.com/photo-1526644779818-f192864daf18?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60");
+    background-image: url("https://images.pexels.com/photos/1655166/pexels-photo-1655166.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
     background-size: cover;
 }
 
-.middlecontent
+.herocontent, .middlecontent
 {
     padding-bottom: 50px;
 }
 
-.titlepresentation, .row
+.titlepresentation
 {
     display: flex;           /* establish flex container */
     justify-content: center; /* center items vertically, in this case */
@@ -22,4 +22,3 @@
     display: flex;
     justify-content: center;
 }
-
